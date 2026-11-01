@@ -7,7 +7,7 @@ image: kamalpanhwar/kamago
 # Deploy to these servers.
 servers:
   web:
-    - 165.22.207.242
+    - 164.92.155.147
   # job:
   #   hosts:
   #     - 192.168.0.1
